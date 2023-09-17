@@ -147,7 +147,6 @@ Guava使用示例。
 **书籍购买地址：** [**京东**](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQEaBFQeWBwyVlgNRQQlW1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRtYHQETAlYSax10SA8XeytMZ0xfIFkkVQEMQD1HC0MOHjdUK1sUAxIDXB1TFwIiN1Uca0NsEgZUGloUBxICVitaJQIWD1AZUxQCEg5VE1glBRIOZUAOewQaVAcfDh0FEQVUGVklMiIEZStrFTIRNxd1DEUDFFRcGF4XUEUGUBoJRVFCA1QdXhEAGlRXSFhCABQ3VxpaEQs%3D) | [**淘宝**](https://s.click.taobao.com/fYrflyu) 
 
 
-![书籍介绍](./pic/book_info.jpg)
 
 **书籍购买地址：** [**京东**](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQEaBFQeWBwyVlgNRQQlW1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRtYHQETAlYSax10SA8XeytMZ0xfIFkkVQEMQD1HC0MOHjdUK1sUAxIDXB1TFwIiN1Uca0NsEgZUGloUBxICVitaJQIWD1AZUxQCEg5VE1glBRIOZUAOewQaVAcfDh0FEQVUGVklMiIEZStrFTIRNxd1DEUDFFRcGF4XUEUGUBoJRVFCA1QdXhEAGlRXSFhCABQ3VxpaEQs%3D) | [**淘宝**](https://s.click.taobao.com/fYrflyu) 
 
