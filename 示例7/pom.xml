@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.github.yeecode.mybatisdemo</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>example-07</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>example-07</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
